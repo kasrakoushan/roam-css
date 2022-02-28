@@ -50,7 +50,7 @@ span[data-link-title="📰articles"] {
 span[data-link-title="📰articles"] .rm-page-ref {
   color: #ffffff !important;
 }
-/* hover case */
+/* hover for Articles */
 span[data-link-title="📰articles"]:hover {
   background-color: #c8c8c8;
 }
@@ -69,7 +69,7 @@ span[data-link-title="⭐️starred"] {
 span[data-link-title="⭐️starred"] .rm-page-ref {
   color: #000 !important;
 }
-/* hover case */
+/* hover for Starred */
 span[data-link-title="⭐️starred"]:hover {
   background-color: #aea100;
 }
@@ -88,7 +88,7 @@ span[data-link-title="🔬research papers"] {
 span[data-link-title="🔬research papers"] .rm-page-ref {
   color: #004e7f !important;
 }
-/* hover case */
+/* hover for Research papers */
 span[data-link-title="🔬research papers"]:hover {
   background-color: #009aae;
 }
